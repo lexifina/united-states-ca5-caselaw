@@ -1,0 +1,35 @@
+---
+court: "United States Court of Appeals for the Fifth Circuit"
+docket: "03-40828"
+decided: "2004-02-18"
+citations: ["88 F. App'x 45"]
+judges: ["Before HIGGINBOTHAM, EMILIO M. GARZA, and PRADO, Circuit Judges."]
+parties: ["UNITED STATES of America, Plaintiff-Appellee, v. Martin ALCARAZ-RODRIGUEZ, Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/88/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 641998
+cites_cases: ["231 F.3d 979", "352 F.3d 934", "523 U.S. 224", "530 U.S. 466", "8 U.S.C. § 1326"]
+---
+
+# United States v. Alcaraz-Rodriguez
+
+## Head matter
+
+UNITED STATES of America, Plaintiff-Appellee, v. Martin ALCARAZ-RODRIGUEZ, Defendant-Appellant.
+No. 03-40828.
+Conference Calendar
+United States Court of Appeals, Fifth Circuit.
+Feb. 18, 2004.
+Mitchel Neuroek, Laredo, TX, James Lee Turner, Assistant US Attorney, Houston, TX, for Plaintiff-Appellee.
+Roland E. Dahlin, II, Federal Public Defender, H. Michael Sokolow, Carlos M. Alaniz, Houston, TX, for Defendant-Appellant.
+Before HIGGINBOTHAM, EMILIO M. GARZA, and PRADO, Circuit Judges.
+
+## Majority (PER CURIAM)
+
+PER CURIAM
+Jaime Alfredo Alcaraz-Rodriguez pleaded guilty to one count of illegal reentry after deportation in violation of 8 U.S.C. § 1326. The district court sentenced Alcaraz-Rodriguez to 85 months of imprisonment and three years of supervised release.
+Alcaraz-Rodriguez argues that 8 U.S.C. § 1326(b) is unconstitutional. In Almendarez-Torres v. United States, 523 U.S. 224, 235, 118 S.Ct. 1219, 140 L.Ed.2d 350 (1998), the Supreme Court held that the enhanced penalties in 8 U.S.C. § 1326(b) are sentencing provisions, not elements of separate offenses. Alcaraz-Rodriguez concedes that his argument is foreclosed by Almendarez-Torres, but he asserts that the decision has been cast into doubt by Apprendi v. New Jersey, 530 U.S. 466, 490, 120 S.Ct. 2348, 147 L.Ed.2d 435 (2000). He seeks to preserve his argument for further review.
+Apprendi did not overrule AlmendarezTorres. See Apprendi, 530 U.S. at 489-90; United States v. Dabeit, 231 F.3d 979, 984 (5th Cir.2000). This court must follow Almendarez-Torres “unless and until the Supreme Court itself determines to overrule it.” Dabeit, 231 F.3d at 984 (internal quotation marks and citation omitted). This issue is without merit.
+Alcaraz-Rodriguez also argues that there is a conflict between the written and oral judgments. The written judgment contains a condition of supervised release prohibiting the possession of a dangerous weapon; the oral pronouncement of sentence did not mention this provision. For the reasons outlined in United States v. Torres-Aguilar, 352 F.3d 934, 935-38 (5th Cir.2003), we conclude that the district court’s omission of the dangerous weapon prohibition during the oral pronouncement of sentence did not create a conflict with the sentence set forth in the judgment.
+AFFIRMED.
+Pursuant to 5th Cir. R. 47.5, the court has determined that this opinion should not be published and is not precedent except under the limited circumstances set forth in 5th Cir. R. 47.5.4.
