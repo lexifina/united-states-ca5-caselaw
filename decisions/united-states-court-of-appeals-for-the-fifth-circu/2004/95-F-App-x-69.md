@@ -1,0 +1,51 @@
+---
+court: "United States Court of Appeals for the Fifth Circuit"
+docket: "03-30694"
+decided: "2004-04-20"
+citations: ["95 F. App'x 69"]
+parties: ["Joann WAGGONER, Plaintiff-Appellant, v. UNITED STATES of America, Defendant-Appellee."]
+source_url: "https://static.case.law/f-appx/95/cases/0069-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1287227
+cites_cases: ["100 S.Ct. 352", "137 F.3d 836", "138 F.3d 157", "28 U.S.C. §§ 2401", "281 F.3d 158", "304 F.2d 234", "384 F.Supp. 304", "645 F.2d 404", "69 F.3d 46", "85 F.3d 217"]
+---
+
+# Waggoner v. United States
+
+## Head matter
+
+Joann WAGGONER, Plaintiff-Appellant, v. UNITED STATES of America, Defendant-Appellee.
+No. 03-30694.
+United States Court of Appeals, Fifth Circuit.
+April 20, 2004.
+Joseph T. Dalrymple, Rivers, Beck, Dalrymple & Ledet, Alexandria, LA, for Plaintiff-Appellant.
+Thomas Burton Thompson, Assistant US Attorney, US Attorneys Office, Lafayette, LA, for Defendant-Appellee.
+Before GARWOOD, HIGGINBOTHAM, and SMITH, Circuit Judges.
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Joann Waggoner brought this Federal Tort Claims Act (“FTCA”) action, alleging that doctors at a Veterans Affairs hospital wrongfully caused her husband’s death by failing to properly diagnose and treat his heart disease. The district court dismissed her claim for lack of subject matter jurisdiction because it found the claim time-barred by 28 U.S.C. §§ 2401(b) and 2675(a). Because this finding was contrary to Waggoner’s undisputed allegations and affidavit testimony, we REVERSE and REMAND.
+I
+Mrs. Waggoner’s husband, a sixty-two-year-old smoker with high cholesterol, began to suffer chest pains in August 1996. He went to a VA hospital for treatment and was given a stress test and an electrocardiogram (“EKG”). A later stress test was scheduled but never given. Mrs. Waggoner asserts that the EKG showed signs of heart disease that should have been noticed by the doctors, but the doctors assured her that Mr. Waggoner was not suffering from heart disease. Instead, the doctors diagnosed Mr. Waggoner with degenerative joint disease in the spine. He was given medication to alleviate his chest pains, but it persisted. Mr. Waggoner returned to the VA hospital in late 1997, where again he and Mrs. Waggoner were told that he did not suffer from heart disease. He suffered a major heart attack on December 13, 1997, and died on January 4, 1998. Mrs. Waggoner received her husband’s death certificate four days later on January 8, 1998, which indicated the cause of death as congestive heart failure and coronary heart disease. She filed an administrative claim with the Office of Regional Counsel for Veteran’s Affairs on January 6, 2000, more than two years after her husband’s death but less than two years after her receipt of the death certificate.
+Based on these allegations, Waggoner asserts that while she knew of her husband’s injury on the day of his death, she did not know, and could not have reasonably known, the alleged cause of his injury — the doctors’ failure to diagnose and treat Mr. Waggoner’s coronary heart disease. Considering the doctors’ various assurances that her husband did not suffer from heart disease, and in light of the other possible causes of Mr. Waggoner’s heart attack, Mrs. Waggoner asserts that she could not have known of the cause until she received the death certificate on January 8, 2004. In her view, this is the day her cause of action accrued.
+The district court rejected her allegations, finding that-
+[she] was armed with the facts about the harm done prior to 8 January 1998, even if she was not certain that the Alexandria VA had been negligent when treating her husband.... At [the time Mr. Waggoner suffered his heart attack], plaintiff had knowledge of her husband’s heart problems and reason to believe that the Alexandria VA had failed to treat those problems correctly.... Considering the history of her husband’s illness, [] Waggoner cannot claim she had no knowledge of the existence and cause of his injury until ... she received the death certificate on 8 January 1998.
+Based on this finding, the court dismissed the suit for lack of subject matter jurisdiction because it was not presented within the applicable two-year statute of limitations.
+II
+We review de novo a district court’s grant of a Rule 12(b)(1) motion to dismiss. To the extent that a court rests its dismissal on a resolution of disputed facts, we review the court’s fact findings for clear error. We will hold a fact finding to be clearly erroneous when we “have a firm conviction, based on a review of the entire record, that a mistake has been made.”
+The FTCA requires a plaintiff to present her claim to the appropriate federal agency within two years of the actions’s accrual. “It is well-settled that these limitation periods are jurisdictional,” and “[wjhile substantive state law determines whether a cause of action exists, federal law determines when that claim accrues.” No provision of the FTCA explains when a cause of action accrues. The Supreme Court, however, explained in United States v. Kubrick that a claim under the FTCA accrues when a plaintiff knows or reasonably should have known “the existence and the cause of his injury,” although a plaintiff need not know that the injury was the result of negligence.
+III
+After a review of the complaint, answer, and affidavits, we can find no reason why Mrs. Waggoner knew or should have known the alleged failure to properly diagnose and treat her husband’s heart disease. Mrs. Waggoner presented evidence and allegations indicating that she could not have reasonably known of the improper diagnosis and treatment until she received the death certificate. Namely, Waggoner provided affidavit testimony that the doctors assured her that her husband did not suffer from heart disease, as well as testimony that she believed a person could die of a heart attack for many reasons. She provided evidence that her husband was a sixty-two-year-old smoker with high cholesterol, and finally, she states the obvious — a heart attack can result from a variety of factors and causes.
+The government provided no evidence to rebut her allegations and evidence. Instead, the government assumed the cause of action accrued on the day of death and focused solely on responding to Waggoner’s alternative assertion that the cause of action should not accrue until an expert advised her of the possible negligence. By doing so, the government ignored Waggoner’s argument that the cause of action accrued on the day she received the death certificate, which placed her claim within the statute of limitations. The government presents no evidence and does not explain why a reasonable person in Mrs. Waggoner’s position could have known or suspected the medical malpractice when Mr. Waggoner suffered his heart attack.
+Although the district court correctly held that the accrual date could not be tolled until she knew the injury resulted from negligence, the facts indicate that the court erred in finding that Waggoner knew the cause of her husband’s death at the time of his heart attack. Mrs. Waggoner’s allegations are uncontroverted. The facts indicate that a reasonable person in her situation could not have reasonably known or suspected the medical malpractice. After undergoing various tests, the doctors repeatedly assured Mrs. Waggoner that her husband did not suffer from heart disease. Considering the allegations and evidence presented, and the government’s failure to present any evidence disputing her allegations, we find that the district court clearly erred in finding that Waggoner knew of the cause of her husband’s injury. Her claim did not accrue until she was “armed with the facts about the harm done,” giving her knowledge, suspicion, or the ability to discover the cause. This could have occurred no earlier than January 8, 1998, when the death certificate first brought to her attention that her husband had heart disease.
+REVERSED AND REMANDED.
+Pursuant to 5th Cir. R. 47.5, the court has determined that this opinion should not be published and is not precedent except under the limited circumstances set forth in 5th Cir. R. 47.5.4.
+. Ramming v. United States, 281 F.3d 158, 161 (5th Cir.2001).
+. Williamson v. Tucker, 645 F.2d 404, 413 (5th Cir. 1981).
+. Baldwin v. Stalder, 137 F.3d 836, 839 (5th Cir. 1998).
+. 28 U.S.C. § 2401(b) (providing that "[a] tort claim against the United States shall be forever barred unless it is presented in writing to the appropriate Federal agency within two years after such claim accrues”); id. at § 2675(a) (providing that ”[a]n action shall not be instituted upon a claim against the United States for money damages ... unless the claimant shall have first presented the claim to the appropriate Federal agency and his claim shall have been finally denied”).
+. Flory v. United States, 138 F.3d 157, 159 (5th Cir. 1998) (citing Price v. United States, 69 F.3d 46, 54 (5th Cir. 1995)).
+. Johnston v. United States, 85 F.3d 217, 219 (5th Cir. 1996).
+. 444 U.S. Ill, 113, 122-24, 100 S.Ct. 352, 62 L.Ed.2d 259 (1979).
+. Kubrick, 444 U.S. at 122-23 (noting that Kubrick, unlike the plaintiff in this case, "armed with the facts about the harm done to him, can protect himself by seeking advice in the medical and legal community,” and explaining that a party’s injury "may be unknown or unknowable until the injury manifests itself; and the facts about causation may be in the control of the putative defendant, unavailable to the plaintiff or at least very difficult to obtain”); Quinton v. United States, 304 F.2d 234, 241 (5th Cir.1962) ("There is no contention here that the plaintiff or his wife knew or could have known of the alleged negligent transfusions prior to the time that the wife became pregnant in 1959. This being so, we hold that plaintiff's claim accrued no earlier than 1959 and that his action was, therefore, timely.”); Pollard v. United States, 384 F.Supp. 304, 310 (M.D.Ala.1974) (applying Quinton to a FTCA wrongful death action and holding that "a cause of action under the Tort Claims Act accrues when the claimant discovers, or in the exercise of reasonable diligence should discover, the existence of the facts upon which the claim is based”).
