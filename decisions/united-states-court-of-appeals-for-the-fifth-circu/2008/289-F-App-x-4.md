@@ -1,0 +1,45 @@
+---
+court: "United States Court of Appeals for the Fifth Circuit"
+docket: "07-30845"
+decided: "2008-07-15"
+citations: ["289 F. App'x 4"]
+parties: ["Bryant HODGES; Peggy Cooper, Plaintiffs—Appellants v. MOSAIC FERTILIZER LLC, formerly known as IMC-Agrico Company, formerly known as Mosaic Phosphates Company, Defendant—Appellee."]
+source_url: "https://static.case.law/f-appx/289/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3825786
+cites_cases: ["19 F.3d 1527", "204 F.3d 624", "230 F.3d 170", "304 U.S. 64", "336 F.3d 363", "37 F.3d 1069", "477 U.S. 317", "512 F.3d 184", "759 So.2d 880"]
+---
+
+# Hodges v. Mosaic Fertilizer LLC
+
+## Head matter
+
+Bryant HODGES; Peggy Cooper, Plaintiffs—Appellants v. MOSAIC FERTILIZER LLC, formerly known as IMC-Agrico Company, formerly known as Mosaic Phosphates Company, Defendant—Appellee.
+No. 07-30845.
+United States Court of Appeals, Fifth Circuit.
+July 15, 2008.
+Patrick Hillary Hufft, New Orleans, LA, Aub A. Ward, Naquin & Ward, Baton Rouge, LA, for Plaintiffs-Appellants.
+Lisa Brener, New Orleans, LA, for Defendant-Appellee.
+Before JONES, Chief Judge, and WIENER, and CLEMENT, Circuit Judges.
+
+## Majority (PER CURIAM:)
+
+PER CURIAM:
+Bryant Hodges and Peggy Cooper (“Appellants”) challenge the district court’s dismissal on summary judgment of their state law spoliation of evidence claim against Mosaic Fertilizer LLC (“Mosaic”). Because the court’s judgment is supported by the record, we AFFIRM.
+BACKGROUND
+On August 8, 2005, Appellants, who were employees of Brand Scaffold Builders, Inc. (“Brand Scaffolding”), were injured while working for Mosaic at its fertilizer plant in St. James Parish, Louisiana. They were erecting scaffolding near sulfuric acid feed pumps when the lanyard connected to Hodges’s safety harness got caught on the lever of a ball valve and pulled the valve open. The ball valve had been placed in the closed position to isolate a broken pressure gauge that had been leaking sulfuric acid. When the lanyard pulled the valve open, sulfuric acid began spraying in the area of the pumps and the scaffolding. The acid sprayed on Appellants and burned them.
+After this accident occurred, the ball valve that opened was removed and replaced with a new valve. Mosaic has been unable to produce the valve that was removed. During a deposition, Mosaic’s maintenance manager, Jeffrey Roussel, testified that he did not know what happened to the valve after it was removed, but that Mosaic normally discards such valves after they are removed. He stated that, at the time the valve was removed, he did not recognize a need to keep it. Roussel also testified that he was not aware that anyone at Mosaic did anything to retain the valve.
+Appellants received worker’s compensation benefits, including wages and medical expenses, from their employer, Brand Scaffolding. On September 26, 2005, Appellants also filed a tort suit for damages against Mosaic in Louisiana state court. Mosaic removed the case to federal district court. In federal court, Appellants supplemented their complaint by adding state law claims of intentional tort and spoliation of evidence. On May 17, 2007, Mosaic filed a motion for summary judgment, which the court granted.
+In its order granting summary judgment, the district court concluded that Mosaic was Appellants’ statutory employer under the Louisiana Workers Compensation Act (“LWCA”), La.Rev.Stat. Ann. § 23:1021, et. seq., and, therefore, immune from tort liability for their injuries. The court recognized that the LWCA does not shield an employer from tort liability for intentionally injuring an employee, but it concluded that Appellants failed to show, using proper summary judgment evidence, that a genuine issue of material fact existed as to whether Mosaic committed an intentional tort. The court also dismissed Appellants’ spoliation of evidence claim, noting in a footnote that “[b]ecause summary judgment has been granted in favor of Mosaic, the plaintiffs have no tort cause of action against Mosaic. Therefore, the plaintiffs’ last claim for damages based on Mosaic’s alleged spoiliation [sic] of evidence is dismissed as moot.”
+On July 13, 2007, Appellants filed a motion for reconsideration, which the district court correctly treated as a motion to alter or amend judgment under Federal Rule of Civil Procedure 59(e). In their motion, Appellants did not contest the district court’s dismissal of their negligence and intentional tort claims. Instead, Appellants argued that their spoliation of evidence claim should not have been dismissed because it was an independent cause of action. The court denied the motion, concluding that Appellants were merely attempting to re-litigate Mosaic’s motion for summary judgment. But the court did clarify its order granting summary judgment by stating that it recognized that a claim of spoliation of evidence “may stand alone at times as an independent cause of action in tort for economic damages; however, the facts of this case do not support such a claim.”
+In their brief on appeal, Appellants argue only one issue: whether the district court erred by dismissing on summary judgment their state law tort claim for the intentional spoliation of evidence.
+STANDARD OF REVIEW
+This court reviews a district court’s order granting summary judgment de novo, viewing all evidence in the light most favorable to the non-moving party and drawing all reasonable inferences in that party’s favor. Pierce v. Dep’t of U.S. Air Force, 512 F.3d 184, 186 (5th Cir.2007). Summary judgment is appropriate when the evidence reflects no genuine issues of material fact and the non-moving party is entitled to judgment as a matter of law. Id. The moving party has the initial responsibility of identifying the pleadings and evidence which it believes demonstrate the absence of a genuine issue of material fact. Celotex Corp. v. Catrett, 477 U.S. 317, 323, 106 S.Ct. 2548, 2553, 91 L.Ed.2d 265 (1986). If the moving party meets this burden, the non-moving party must “identify specific evidence in the record, and ... articulate the ‘precise manner’ in which that evidence support[s][its] claim[s].” Forsyth v. Barr, 19 F.3d 1527, 1537 (5th Cir.1994).
+The non-moving party cannot satisfy its summary judgment burden with “some metaphysical doubt as to the material facts, by eonclusory allegations, by unsubstantiated assertions, or by only a scintilla of evidence.” Little v. Liquid Air Corp., 37 F.3d 1069, 1075 (5th Cir.1994) (en banc) (internal quotation marks and citations omitted). If no reasonable juror could find for the non-moving party, summary judgment will be granted. Miss. River Basin Alliance v. Westphal, 230 F.3d 170, 174 (5th Cir.2000).
+DISCUSSION
+Appellants ask this court to recognize an independent tort for the intentional destruction of evidence for the purpose of depriving an opposing party of its use. Because our jurisdiction in this case is based on diversity of citizenship, we apply Louisiana law. See Erie R. Co. v. Tompkins, 304 U.S. 64, 58 S.Ct. 817, 82 L.Ed. 1188 (1938). In their brief on appeal, Appellants cite a single case from an intermediate state appellate court to support their argument. See Pham v. Contico Int’l, Inc., 759 So.2d 880, 882 (La.Ct.App.2000). The Louisiana Supreme Court has yet to address whether: (1) Louisiana law recognizes an independent tort for the intentional spoliation of evidence, or (2) whether the LWCA would preclude an employee from bringing such a tort claim against his employer.
+If the Louisiana Supreme Court has not ruled on an issue, then this court makes an “Erie guess” to “determine as best it can” what that court would decide. Howe ex rel. Howe v. Scottsdale Ins. Co., 204 F.3d 624, 627 (5th Cir.2000) (citations omitted). But we need not make an Erie guess here, because even if the Louisiana Supreme Court decided that an employee may bring an independent tort claim against his employer for the intentional spoliation of evidence, Appellants’ claim would not survive summary judgment.
+On review of pertinent portions of the record, we conclude that Appellants have failed to carry their burden of presenting evidence that shows the existence of a genuine issue of material fact as to spoliation of evidence. Appellants argue that Mosaic intentionally destroyed the valve at issue for the purpose of depriving them of its use. But Appellants cite no evidence, other than their mere allegation, that tends to show that Mosaic intentionally destroyed the valve for that reason. Therefore, the district court correctly dismissed on summary judgment Appellants’ spoliation of evidence claim. See Burge v. St. Tammany Parish, 336 F.3d 363, 373-74 (5th Cir.2003) (Louisiana plaintiff presented no evidence that defendant intentionally destroyed evidence for the purpose of depriving plaintiff of its use).
+CONCLUSION
+For the reasons stated, we AFFIRM the district court’s judgment.
+Pursuant to 5th Cir. R. 47.5, the court has determined that this opinion should not be published and is not precedent except under the limited circumstances set forth in 5th Cir. R. 47.5.4.
