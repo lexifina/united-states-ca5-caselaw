@@ -1,0 +1,37 @@
+---
+court: "United States Court of Appeals for the Fifth Circuit"
+docket: "09-60964"
+decided: "2010-09-24"
+citations: ["398 F. App'x 7"]
+judges: ["Before KING, BENAVIDES, and ELROD, Circuit Judges."]
+parties: ["David WEATHERSPOON, Plaintiff-Appellant v. John D. FERGUSON, President, CCA; Christopher Epps, Commissioner, Mississippi Department of Corrections; Raymond Byrd, Warden for CCA; Kimberly Kent Rokasky, Mailroom Clerk for CCA, Defendants-Appellees."]
+source_url: "https://static.case.law/f-appx/398/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5737264
+cites_cases: ["197 F.2d 483", "3 F.3d 816", "302 FedAppx. 231", "325 F.3d 627", "37 F.3d 1069", "42 U.S.C. § 1983", "466 F.3d 330", "482 U.S. 78", "529 F.3d 599"]
+---
+
+# Weatherspoon v. Ferguson
+
+## Head matter
+
+David WEATHERSPOON, Plaintiff-Appellant v. John D. FERGUSON, President, CCA; Christopher Epps, Commissioner, Mississippi Department of Corrections; Raymond Byrd, Warden for CCA; Kimberly Kent Rokasky, Mailroom Clerk for CCA, Defendants-Appellees.
+No. 09-60964
+Summary Calendar.
+United States Court of Appeals, Fifth Circuit.
+Sept. 24, 2010.
+David Weatherspoon, Parchman, MS, pro se.
+Christopher William Espy, Butler, Snow, O’Mara, Stevens & Cannada, P.L.L.C., Ridgeland, MS, Charles Baron Irvin, Esq., Pelicia E. Hall, Esq., Special Assistant Attorney General, Office of the Attorney General, Jackson, MS, for Defendants-Appellees.
+Before KING, BENAVIDES, and ELROD, Circuit Judges.
+
+## Majority (PER CURIAM:)
+
+PER CURIAM:
+David Weatherspoon, Mississippi prisoner # 39891, appeals the district court’s judgment granting summary judgment in favor of the appellees and dismissing his 42 U.S.C. § 1983 complaint. He argues that the mail policy of the Mississippi Department of Corrections (MDOC) impinges upon his constitutional rights. He specifically challenges the policy with respect to its treatment of legal and official mail. He argues that the policy, which states that all legal or official mail must be sealed in the presence of a staff member of the Inmate Legal Assistance Program (ILAP) before mailing, and that legal mail not bearing an ILAP stamp will be returned to the inmate to comply with MDOC policy, violates the Fourth Amendment. He asserts that the appellees improperly returned a piece of his legal or official mail to him because he failed to comply with the policy and that this refusal to process his mail was tantamount to an illegal search or seizure.
+This court reviews a grant of summary judgment de novo. Cousin v. Small, 325 F.3d 627, 637 (5th Cir.2003). Summary judgment is proper “if the pleadings, the discovery and disclosure materials on file, and any affidavits show that there is no genuine issue as to any material fact and that the movant is entitled to judgment as a matter of law.” Fed.R.CivP. 56(c)(2). “[T]he party moving for summary judgment must demonstrate the absence of a genuine issue of material fact, but need not negate the elements of the nonmovant’s case.” Little v. Liquid, Air Corp., 37 F.3d 1069, 1075 (5th Cir.1994) (en banc) (internal quotation marks and citation omitted).
+We have set forth that in determining the validity of prison practices that impinge upon a prisoner’s constitutional rights with respect to mail, the proper inquiry is whether the practice is reasonably related to a legitimate penological interest. See Brewer v. Wilkinson, 3 F.3d 816, 824-25 (5th Cir.1993) (adopting standard set forth in Turner v. Safley, 482 U.S. 78, 89-91, 107 S.Ct. 2254, 96 L.Ed.2d 64 (1987)). We consider the reasonableness of a prison practice by evaluating: (1) whether a valid, rational connection exists between the prison regulation and the legitimate governmental interest put forward to justify it; (2) whether there are alternative means of exercising the right that remain open to prison inmates; (3) the impact that accommodation will have on guards, other inmates, and the allocation of prison resources generally; and (4) whether there are ready alternatives that could fully accommodate the prisoner’s rights at de minimis cost to penological interests. Turner, 482 U.S. at 89-91, 107 S.Ct. 2254. “[Rationality is the controlling factor, and a court need not weigh each factor equally.” Mayfield v. Tex. Dep’t of Criminal Justice, 529 F.3d 599, 607 (5th Cir.2008). Due regard also must be given to the decisions of prison officials because “prison administrators ..., and not the courts, [are] to make the difficult judgments concerning institutional operations.’ ” Turner, 482 U.S. at 89, 107 S.Ct. 2254 (omission and alteration in original).
+The record in this case establishes that the MDOC policy concerning legal or official mail is rationally related to prison officials’ legitimate penological interests in advancing the orderly administration of prisons and preventing and discovering mail containing contraband or offensive content. Moreover, there is a close relationship between these interests and the means by which the MDOC policy seeks to accomplish them; only by discovering the contents of the mail and insuring that the mail in fact is legal or official in nature can prison officials guarantee that harmful matters are not sent outside the prison and that the mail is properly categorized. The policy also does not categorically preclude inmates from communicating with those on the legal or official mailing list, and the record supports that the policy is designed to minimize the burden on others. There also is no indication that there exists a less-restrictive manner by which prison officials can vindicate their penological interests.
+Thus, the MDOC mail policy with respect to legal or official mail does not impermissibly impinge upon Weather-spoon’s Fourth Amendment rights, and the appellees did not commit an illegal search or seizure in this case. Id. at 89-91, 107 S.Ct. 2254. Given this determination, we pretermit discussion of whether certain defendants were not liable because they were not personally involved in the alleged constitutional violations.
+To the extent that Weatherspoon alleges that the MDOC policy denied him access to the courts, we previously denied that claim on the ground that he did not show that he was prejudiced by the appellees’ purported interference. Weather-spoon v. Ferguson, 302 FedAppx. 231 (5th Cir.2008). To the extent that he seeks to raise a new claim that the mail policy violated the First Amendment by interrupting the free flow of mail, he has not shown that he raised this issue expressly in the district court, see Williams v. Ballard, 466 F.3d 330, 335 (5th Cir.2006) (noting that issues raised for the first time on appeal need not be considered), or that the policy is unconstitutional for the above-detailed reasons. He also has not established that the MDOC policy violates federal criminal statutes related to the processing of mail. See generally Adams v. Ellis, 197 F.2d 483, 484-85 (5th Cir.1952) (noting that statutes punishing theft or receipt of stolen mail likely are inapplicable to prison administrators handling prisoner mail).
+Accordingly, the district court did not err in granting the appellees’ motion for summary judgment and in dismissing Weatherspoon’s § 1983 complaint. The judgment is AFFIRMED.
+Pursuant to 5th Cir. R. 47.5, the court has determined that this opinion should not be published and is not precedent except under the limited circumstances set forth in 5th Cir. R. 47.5.4.
