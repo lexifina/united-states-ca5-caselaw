@@ -1,0 +1,25 @@
+---
+court: "United States Court of Appeals for the Fifth Circuit"
+docket: "13-40387"
+decided: "2014-02-12"
+citations: ["554 Fed. App'x 300"]
+reporter: "br"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before STEWART, Chief Judge, and GARZA and SOUTHWICK, Circuit Judges."]
+parties: ["In the Matter of Mary Harp SHANKLES, doing business as Red River Reporter, Debtor. Mark Asher Weisbart, U.S. Trustee; Hynds & Gordon, P.C.; David N. McNees, doing business as Law Office of David N. McNees, Appellees v. Mary Harp Shankles, doing business as Red River Reporter, Appellant."]
+source_url: "https://static.case.law/br/510/cases/0300-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4072480
+cites_cases: ["11 U.S.C. § 522", "513 F.3d 212"]
+cites_law: ["united-states/federal/usc/title-11/522.md"]
+---
+
+# Weisbart v. Shankles (In re Shankles)
+
+## Majority (PER CURIAM:)
+
+PER CURIAM:
+Because we agree with the bankruptcy court that Mary Harp Shankles obtained a “vested economic interest” in her homestead property only by the 2009 distribution deed, we affirm. Wallace v. Rogers (In re Rogers), 513 F.3d 212, 223 (5th Cir.2008). We further agree with the bankruptcy court that any relevant prior deeds, conveyances, or agreements were rendered null and void ab initio, and that parties cannot contract around the 11 U.S.C. § 522(p)(l) 1,215-day “look-back” period.
+AFFIRMED.
+Pursuant to 5th Cir R. 47.5, the court has determined that this opinion should not be published and is not precedent except under the limited circumstances set forth in 5th Cir. R. 47.5.4.
